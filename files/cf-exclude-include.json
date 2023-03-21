@@ -25,9 +25,19 @@
         "revelationary"
       ]
     },
+    "better-mc-new": {
+      "forceIncludes": [
+       "carry-on"
+      ]
+    },
     "valhelsia-5": {
       "excludes": [
         "modernfix"
+      ]
+    },
+    "create-flavored": {
+      "forceIncludes": [
+        "carry-on"
       ]
     }
   }
